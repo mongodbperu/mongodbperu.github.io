@@ -7,7 +7,7 @@
 
     <ul class="sidebar-nav">
       <li class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}">
-        <a href="/">Home</a>
+        <a href="/">Inicio</a>
       </li>
 
       {% comment %}
@@ -26,11 +26,11 @@
         {% endif %}
       {% endfor %}
 
-      <li class="sidebar-nav-item"><a href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a></li>
-      <li class="sidebar-nav-item"><a href="{{ site.github.repo }}">GitHub project</a></li>
-      <li class="sidebar-nav-item">Currently v{{ site.version }}</li>
+      <li class="sidebar-nav-item"><a href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Descargar</a></li>
+      <li class="sidebar-nav-item"><a href="{{ site.github.repo }}">GitHub projecto</a></li>
+      <li class="sidebar-nav-item">Actualmente V{{ site.version }}</li>
     </ul>
 
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+    <p>&copy; {{ site.time | date: '%Y' }}. Todos los derechos reservados.</p>
   </div>
 </div>
