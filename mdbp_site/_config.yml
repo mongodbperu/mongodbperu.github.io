@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            MongoDB Perú
+tagline:          'MongoDB'
+description:      'Numerosas patas el de <a href="http://mongodbperu.com" target="_blank">MongoDB Perú</a> penosamente delgadas en comparación con el grosor normal de sus dos piernas. hecho por nosotros<a href="https://twitter.com/mdo" target="_blank">@mongodbperu</a>.'
+url:              http://mongodbperu.com
+
+author:
+  name:           'Comunidad MongoDB Perú'
+  url:            https://github.com/mongodbperu
+
+paginate:         5
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           https://github.com/MongoDBPeru/mongodbperu.github.io
