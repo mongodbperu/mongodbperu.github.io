@@ -1,38 +1,37 @@
 ---
 layout: post
-title: Introducción
+title: Introducing Hyde
 ---
 
-Una mañana, tras un sueño intranquilo, Gregorio Samsa se despertó convertido en un monstruoso insecto. Estaba echado de espaldas sobre un duro caparazón y, al alzar la cabeza, vio su vientre convexo y oscuro, surcado por curvadas callosidades...
+Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
 
-### Desde Poole empezamos a rediseñar
+### Built on Poole
 
-Poole por [@mdo](https://twitter.com/mdo). Poole.La estampa mostraba a una mujer tocada con un gorro de pieles, envuelta en una estola también de pieles, y que, muy erguida...
-Este fucking CMS ligero incluye:
+Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Hyde here) includes the following:
 
-* Con el CMS de [Jekyll](http://jekyllrb.com)
-* Desarrollado gracias a [GitHub Pages](https://pages.github.com)
-* Codeado con [Vim](http://www.vim.org) y [Sublime Text 2](http://sublimetext.org)
-* Diseñado y desarrollado mientras escuchaba a  [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+* Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
+* Mobile friendly design and development
+* Easily scalable text and component sizing with `rem` units in the CSS
+* Support for a wide gamut of HTML elements
+* Related posts (time-based, because Jekyll) below each post
+* Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
 
-Puedes hacernos cualquier fucking pregunta por los canales habituales.
+### Hyde features
 
-### Lo que Hyde nos aporta
+In addition to the features of Poole, Lanyon adds the following:
 
-Adicionalmente a Poole, el tema Lanyon añade lo siguiente:
+* Sidebar includes support for textual modules and a dynamically generated navigation with active link support
+* Two orientations for content and sidebar, default (left sidebar) and [reverse](https://github.com/poole/lanyon#reverse-layout) (right sidebar), available via `<body>` classes
+* [Eight optional color schemes](https://github.com/poole/hyde#themes), available via `<body>` classes
 
-* Sidebar blablalbla
-* dos orientaciones [reverse](https://github.com/poole/lanyon#reverse-layout) vía `<body>` clases
-* [8 colores para el tema](https://github.com/poole/hyde#themes), vía `<body>` clases
+[Head to the readme](https://github.com/poole/hyde#readme) to learn more.
 
-[Encabezado del readme](https://github.com/poole/hyde#readme) para saber más.
+### Browser support
 
-### Navegador mañanero
+Hyde is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
 
-Una mañana, tras un sueño intranquilo, Gregorio Samsa se despertó convertido en un monstruoso insecto. Estaba echado de espaldas sobre un duro caparazón y, al alzar la cabeza, vio su vientre convexo y oscuro, surcado por curvadas callosidades, sobre el que casi no se aguantaba la colcha, que estaba a punto de escurrirse hasta el suelo.
+### Download
 
-### Descarga
+Hyde is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/hyde">GitHub repository</a> for downloads, bug reports, and features requests.
 
-Desarrollado y alojado con GitHub. Gracias <a href="https://github.com/poole/hyde">a este repo</a> Para poder contribuir y esas cosas
-
-¡Ánimo!
+Thanks!

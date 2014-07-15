@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MongoDB Perú
+title: Home
 ---
 
 <div class="posts">
@@ -21,17 +21,17 @@ title: MongoDB Perú
 
 <div class="pagination">
   {% if paginator.next_page %}
-    <a class="pagination-item older" href="/page{{paginator.next_page}}">Older</a>
+    <a class="pagination-item older" href="/page{{paginator.next_page}}">Anterior</a>
   {% else %}
-    <span class="pagination-item older">Older</span>
+    <span class="pagination-item older">Anterior</span>
   {% endif %}
   {% if paginator.previous_page %}
     {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="/">Newer</a>
+      <a class="pagination-item newer" href="/">Nuevo</a>
     {% else %}
-      <a class="pagination-item newer" href="/page{{paginator.previous_page}}">Newer</a>
+      <a class="pagination-item newer" href="/page{{paginator.previous_page}}">Nuevo</a>
     {% endif %}
   {% else %}
-    <span class="pagination-item newer">Newer</span>
+    <span class="pagination-item newer">Nuevo</span>
   {% endif %}
 </div>

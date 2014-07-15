@@ -1,12 +1,12 @@
 ---
 layout: post
-title: ¿Qué es Jekyll?
+title: What's Jekyll?
 ---
 
-[Jekyll](http://jekyllrb.com) Es con lo que hacemos esto [El projecto readme](https://github.com/mojombo/jekyll/blob/master/README.markdown):
+[Jekyll](http://jekyllrb.com) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From [the project's readme](https://github.com/mojombo/jekyll/blob/master/README.markdown):
 
-  > La estampa mostraba a una mujer tocada con un gorro de pieles, envuelta en una estola también de pieles, y que, muy erguida, esgrimía un amplio manguito, asimismo de piel, que ocultaba todo su antebrazo. Gregorio miró hacia la ventana; estaba nublado, y sobre el cinc del alféizar repiqueteaban las gotas de lluvia...
+  > Jekyll is a simple, blog aware, static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.
 
-Estaba echado de espaldas sobre un duro caparazón y, al alzar la cabeza, vio su vientre convexo y oscuro
+It's an immensely useful tool and one we encourage you to use here with Hyde.
 
-Saber más en [GitHub](https://github.com/mojombo/jekyll).
+Find out more by [visiting the project on GitHub](https://github.com/mojombo/jekyll).

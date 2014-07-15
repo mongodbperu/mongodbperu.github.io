@@ -1,30 +1,30 @@
 ---
 layout: page
-title: Quienes somos
+title: Nosotros
 ---
 
 <p class="message">
-Mensaje inicial: Una mañana, tras un sueño intranquilo, Gregorio Samsa se despertó convertido en un monstruoso insecto...
+  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>
 
-Estaba echado de espaldas sobre un duro caparazón y, al alzar la cabeza, vio su vientre convexo y oscuro, surcado por curvadas callosidades, sobre el que casi no se aguantaba la colcha, que estaba a punto de escurrirse hasta el suelo.Está hecho por [@MongoDBPeru](https://twitter.com/mongodbperu).
+In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
-Nos vemos en 
+There are currently two themes built on Poole:
 
-* [Facebook](https://www.facebook.com/mongodbperu?fref=ts)
-* [Google+](https://groups.google.com/forum/#!forum/mongodb-lima)
+* [Hyde](http://hyde.getpoole.com)
+* [Lanyon](http://lanyon.getpoole.com)
 
-Se puede contribuir directamente a [GitHub](https://github.com/poole).
+Learn more and contribute on [GitHub](https://github.com/poole).
 
-## Administrando
+## Setup
 
-Este fucking CMS ligero incluye:
+Some fun facts about the setup of this project include:
 
-* Con el CMS de [Jekyll](http://jekyllrb.com)
-* Desarrollado gracias a [GitHub Pages](https://pages.github.com)
-* Codeado con [Vim](http://www.vim.org) y [Sublime Text 2](http://sublimetext.org)
-* Diseñado y desarrollado mientras escuchaba a  [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+* Built for [Jekyll](http://jekyllrb.com)
+* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
+* Coded with [Sublime Text 2](http://sublimetext.org), an amazing code editor
+* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
 
-Puedes hacernos cualquier fucking pregunta por los canales habituales.
+Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
 
-¡Gracias!
+Thanks for reading!

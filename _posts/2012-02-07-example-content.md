@@ -1,52 +1,55 @@
 ---
 layout: post
-title: Post de ejemplo
+title: Example content
 ---
 
-Una mañana, tras un sueño intranquilo, Gregorio Samsa se despertó convertido en un monstruoso insecto. Estaba echado de espaldas sobre un duro caparazón.
+This blog post shows a few different types of content that's supported and styled with Hyde. Basic typography, images, and code are all supported.
 
 -----
 
-y, al alzar la cabeza, vio su vientre convexo y oscuro, surcado por curvadas callosidades, sobre el que casi no se aguantaba la colcha, que estaba a punto de escurrirse hasta el suelo. Numerosas patas, <a href="#">penosamente delgadas</a>en comparación con el grosor normal de sus piernasdis parturient montes.
+Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
-> La estampa mostraba a una mujer tocada. **- ¿Qué me ha ocurrido? No estaba soñando.** Gregorio miró hacia la ventana; estaba nublado, y sobre el cinc del alféizar repiqueteaban las gotas de lluvia.
+> Curabitur blandit tempus porttitor. **Nullam quis risus eget urna mollis** ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
 
-Sobre la mesa había desparramado un muestrario  *«Bueno -pensó-* Quiere la boca exhausta vid, kiwi, piña y fugaz jamón. 
+Etiam porta *sem malesuada magna* mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
 
-## Encabezado
+## Heading
 
-Fabio me exige, sin tapujos, que añada cerveza al whisky. Exhíbanse politiquillos zafios, con orejas kilométricas y uñas de gavilán. El cadáver de Wamba, rey godo de España, fue exhumado y trasladado en una caja de zinc que pesó un kilo. 
-### Sub-encabezado
+Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
 
-CEl pingüino Wenceslao hizo kilómetros bajo exhaustiva lluvia y frío, añoraba a su querido cachorro. El veloz murciélago hindú comía feliz cardillo y kiwi.
+### Sub-heading
+
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 
 {% highlight js %}
-// Ejemplo para la consola o consolarse
+// Example can be run directly in your JavaScript console
 
-// Creamos una función con dos argumentos para que nos devuelva uno
+// Create a function that takes two arguments and returns the sum of those arguments
 var adder = new Function("a", "b", "return a + b");
 
-// Llama a la función
+// Call the function
 adder(2, 6);
 // > 8
 {% endhighlight %}
 
-El pingüino Wenceslao hizo kilómetros bajo exhaustiva lluvia y frío, añoraba a su querido cachorro. El veloz murciélago hindú comía feliz cardillo y kiwi.
+Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
 
-### Sub-encabezado
+### Sub-heading
 
-La cigüeña tocaba el saxofón detrás del palenque de paja. Quiere la boca exhausta vid, kiwi, piña y fugaz jamón. Fabio me exige, sin tapujos, que añada cerveza al whisky. Jovencillo emponzoñado de whisky, ¡qué figurota exhibes!   
-* El cadáver de Wamba, rey godo de España
-* Exhíbanse politiquillos zafios, con orejas kilométricas y uñas de gavilán
-* El jefe buscó el éxtasis en un imprevisto baño de whisky y gozó como un duque
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
 
-La cigüeña tocaba cada vez mejor el saxofón y el búho pedía kiwi y queso.
+* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+* Donec id elit non mi porta gravida at eget metus.
+* Nulla vitae elit libero, a pharetra augue.
 
-1. Estoy solo, y me felicito de vivir en este país
-2. El más a propósito para almas como la mía
-3. Soy tan dichoso, mi querido amigo, me sojuzga de tal modo la idea de reposar
- Que no me ocupo de mi arte..
+Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
+
+1. Vestibulum id ligula porta felis euismod semper.
+2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+3. Maecenas sed diam eget risus varius blandit sit amet non magna.
+
+Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
 
 -----
 
-Algo más <a href="https://github.com/MongoDBPeru/mongodbperu.github.io/issues/new">Abrir un evento</a>
+Want to see something else added? <a href="https://github.com/mdo/hyde/issues/new">Open an issue.</a>
