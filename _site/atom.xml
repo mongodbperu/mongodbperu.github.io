@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>MongoDB Perú</title>
+ <link href="http://mongodbperu.com/atom.xml" rel="self"/>
+ <link href="http://mongodbperu.com/"/>
+ <updated>2014-07-15T15:57:40-05:00</updated>
+ <id>http://mongodbperu.com</id>
+ <author>
+   <name>Comunidad MongoDB Perú</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Introducción</title>
+   <link href="http://mongodbperu.com/2013/12/28/introducing-hyde/"/>
+   <updated>2013-12-28T00:00:00-05:00</updated>
+   <id>http://mongodbperu.com/2013/12/28/introducing-hyde</id>
+   <content type="html">&lt;p&gt;Una mañana, tras un sueño intranquilo, Gregorio Samsa se despertó convertido en un monstruoso insecto. Estaba echado de espaldas sobre un duro caparazón y, al alzar la cabeza, vio su vientre convexo y oscuro, surcado por curvadas callosidades...&lt;/p&gt;
+
+&lt;h3&gt;Desde Poole empezamos a rediseñar&lt;/h3&gt;
+
+&lt;p&gt;Poole por &lt;a href=&quot;https://twitter.com/mdo&quot;&gt;@mdo&lt;/a&gt;. Poole.La estampa mostraba a una mujer tocada con un gorro de pieles, envuelta en una estola también de pieles, y que, muy erguida...
+Este fucking CMS ligero incluye:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Con el CMS de &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Desarrollado gracias a &lt;a href=&quot;https://pages.github.com&quot;&gt;GitHub Pages&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Codeado con &lt;a href=&quot;http://www.vim.org&quot;&gt;Vim&lt;/a&gt; y &lt;a href=&quot;http://sublimetext.org&quot;&gt;Sublime Text 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Diseñado y desarrollado mientras escuchaba a  &lt;a href=&quot;https://soundcloud.com/maddecent/sets/blood-bros-series&quot;&gt;Blood Bros Trilogy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Puedes hacernos cualquier fucking pregunta por los canales habituales.&lt;/p&gt;
+
+&lt;h3&gt;Lo que Hyde nos aporta&lt;/h3&gt;
+
+&lt;p&gt;Adicionalmente a Poole, el tema Lanyon añade lo siguiente:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Sidebar blablalbla&lt;/li&gt;
+&lt;li&gt;dos orientaciones &lt;a href=&quot;https://github.com/poole/lanyon#reverse-layout&quot;&gt;reverse&lt;/a&gt; vía &lt;code&gt;&amp;lt;body&amp;gt;&lt;/code&gt; clases&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/poole/hyde#themes&quot;&gt;8 colores para el tema&lt;/a&gt;, vía &lt;code&gt;&amp;lt;body&amp;gt;&lt;/code&gt; clases&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/poole/hyde#readme&quot;&gt;Encabezado del readme&lt;/a&gt; para saber más.&lt;/p&gt;
+
+&lt;h3&gt;Navegador mañanero&lt;/h3&gt;
+
+&lt;p&gt;Una mañana, tras un sueño intranquilo, Gregorio Samsa se despertó convertido en un monstruoso insecto. Estaba echado de espaldas sobre un duro caparazón y, al alzar la cabeza, vio su vientre convexo y oscuro, surcado por curvadas callosidades, sobre el que casi no se aguantaba la colcha, que estaba a punto de escurrirse hasta el suelo.&lt;/p&gt;
+
+&lt;h3&gt;Descarga&lt;/h3&gt;
+
+&lt;p&gt;Desarrollado y alojado con GitHub. Gracias &lt;a href=&quot;https://github.com/poole/hyde&quot;&gt;a este repo&lt;/a&gt; Para poder contribuir y esas cosas&lt;/p&gt;
+
+&lt;p&gt;¡Ánimo!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Post de ejemplo</title>
+   <link href="http://mongodbperu.com/2012/02/07/example-content/"/>
+   <updated>2012-02-07T00:00:00-05:00</updated>
+   <id>http://mongodbperu.com/2012/02/07/example-content</id>
+   <content type="html">&lt;p&gt;Una mañana, tras un sueño intranquilo, Gregorio Samsa se despertó convertido en un monstruoso insecto. Estaba echado de espaldas sobre un duro caparazón.&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;y, al alzar la cabeza, vio su vientre convexo y oscuro, surcado por curvadas callosidades, sobre el que casi no se aguantaba la colcha, que estaba a punto de escurrirse hasta el suelo. Numerosas patas, &lt;a href=&quot;#&quot;&gt;penosamente delgadas&lt;/a&gt;en comparación con el grosor normal de sus piernasdis parturient montes.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;La estampa mostraba a una mujer tocada. &lt;strong&gt;- ¿Qué me ha ocurrido? No estaba soñando.&lt;/strong&gt; Gregorio miró hacia la ventana; estaba nublado, y sobre el cinc del alféizar repiqueteaban las gotas de lluvia.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Sobre la mesa había desparramado un muestrario  &lt;em&gt;«Bueno -pensó-&lt;/em&gt; Quiere la boca exhausta vid, kiwi, piña y fugaz jamón. &lt;/p&gt;
+
+&lt;h2&gt;Encabezado&lt;/h2&gt;
+
+&lt;p&gt;Fabio me exige, sin tapujos, que añada cerveza al whisky. Exhíbanse politiquillos zafios, con orejas kilométricas y uñas de gavilán. El cadáver de Wamba, rey godo de España, fue exhumado y trasladado en una caja de zinc que pesó un kilo. &lt;/p&gt;
+
+&lt;h3&gt;Sub-encabezado&lt;/h3&gt;
+
+&lt;p&gt;CEl pingüino Wenceslao hizo kilómetros bajo exhaustiva lluvia y frío, añoraba a su querido cachorro. El veloz murciélago hindú comía feliz cardillo y kiwi.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;c1&quot;&gt;// Ejemplo para la consola o consolarse&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// Creamos una función con dos argumentos para que nos devuelva uno&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;a&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;b&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;return a + b&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// Llama a la función&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;// &amp;gt; 8&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;El pingüino Wenceslao hizo kilómetros bajo exhaustiva lluvia y frío, añoraba a su querido cachorro. El veloz murciélago hindú comía feliz cardillo y kiwi.&lt;/p&gt;
+
+&lt;h3&gt;Sub-encabezado&lt;/h3&gt;
+
+&lt;p&gt;La cigüeña tocaba el saxofón detrás del palenque de paja. Quiere la boca exhausta vid, kiwi, piña y fugaz jamón. Fabio me exige, sin tapujos, que añada cerveza al whisky. Jovencillo emponzoñado de whisky, ¡qué figurota exhibes!&lt;br&gt;
+* El cadáver de Wamba, rey godo de España
+* Exhíbanse politiquillos zafios, con orejas kilométricas y uñas de gavilán
+* El jefe buscó el éxtasis en un imprevisto baño de whisky y gozó como un duque&lt;/p&gt;
+
+&lt;p&gt;La cigüeña tocaba cada vez mejor el saxofón y el búho pedía kiwi y queso.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Estoy solo, y me felicito de vivir en este país&lt;/li&gt;
+&lt;li&gt;El más a propósito para almas como la mía&lt;/li&gt;
+&lt;li&gt;Soy tan dichoso, mi querido amigo, me sojuzga de tal modo la idea de reposar
+Que no me ocupo de mi arte..&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;Algo más &lt;a href=&quot;https://github.com/MongoDBPeru/mongodbperu.github.io/issues/new&quot;&gt;Abrir un evento&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>¿Qué es Jekyll?</title>
+   <link href="http://mongodbperu.com/2012/02/06/whats-jekyll/"/>
+   <updated>2012-02-06T00:00:00-05:00</updated>
+   <id>http://mongodbperu.com/2012/02/06/whats-jekyll</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; Es con lo que hacemos esto &lt;a href=&quot;https://github.com/mojombo/jekyll/blob/master/README.markdown&quot;&gt;El projecto readme&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;La estampa mostraba a una mujer tocada con un gorro de pieles, envuelta en una estola también de pieles, y que, muy erguida, esgrimía un amplio manguito, asimismo de piel, que ocultaba todo su antebrazo. Gregorio miró hacia la ventana; estaba nublado, y sobre el cinc del alféizar repiqueteaban las gotas de lluvia...&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Estaba echado de espaldas sobre un duro caparazón y, al alzar la cabeza, vio su vientre convexo y oscuro&lt;/p&gt;
+
+&lt;p&gt;Saber más en &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>

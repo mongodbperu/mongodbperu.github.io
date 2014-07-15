@@ -1,65 +1,37 @@
-<!DOCTYPE html>
-<html lang="es">
+---
+layout: default
+title: MongoDB Perú
+---
 
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
+<div class="posts">
+  {% for post in paginator.posts %}
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
 
-    <title>MongoDB Peruvian Community - The Last Hope </title>
+    <span class="post-date">{{ post.date | date_to_string }}</span>
 
-    <!-- Bootstrap core CSS -->
-    <link href="http://startbootstrap.com/templates/css/bootstrap.css" rel="stylesheet">
+    {{ post.content }}
+  </div>
+  {% endfor %}
+</div>
 
-    <!-- Custom Google Web Font -->
-    <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic' rel='stylesheet' type='text/css'>
-
-</head>
-
-<body>
-
-    <div class="intro-header">
-
-        <div class="container">
-
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="intro-message">
-                        <img height="90px" width="100px" style=" float: left; padding-right: 10px; "   src="http://dangayle.com.s3.amazonaws.com/uploads/logo-square.png" class="img-rounded">
-                        <h1>Mongo DB Perú</h1>
-                        <h3>The clones are working on the Death Star MongoDB Web Page</h3>
-                        <img src="http://img3.wikia.nocookie.net/__cb20101015005938/legogames/es/images/9/9e/LEGO-Star-Wars-Clone-Walker-2.jpg" class="img-responsive">
-                        
-                        </div>
-                        <hr class="intro-divider">
-                        <ul class="list-inline intro-social-buttons">
-                            <li><a href="https://twitter.com/mongodbperu" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
-                            </li>
-                            <li><a href="https://github.com/mongodbperu" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-
-        </div>
-        <!-- /.container -->
-
-    </div>
-    <!-- /.intro-header -->
-
-
-    <footer>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <p class="copyright text-muted small">GPL v3 &copy; Mongo DB Community Perú </p>
-                </div>
-            </div>
-        </div>
-    </footer>
-
-</body>
-
-</html>
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="/page{{paginator.next_page}}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a class="pagination-item newer" href="/">Newer</a>
+    {% else %}
+      <a class="pagination-item newer" href="/page{{paginator.previous_page}}">Newer</a>
+    {% endif %}
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div>
