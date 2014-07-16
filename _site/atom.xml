@@ -4,7 +4,7 @@
  <title>MongoDB Perú</title>
  <link href="http://mongodbperu.com/atom.xml" rel="self"/>
  <link href="http://mongodbperu.com/"/>
- <updated>2014-07-15T20:18:25-05:00</updated>
+ <updated>2014-07-16T14:20:02+00:00</updated>
  <id>http://mongodbperu.com</id>
  <author>
    <name>MongoDB Perú</name>
@@ -15,7 +15,7 @@
  <entry>
    <title>¿Qué es MongoBD?</title>
    <link href="http://mongodbperu.com/2014/07/14/Que_es_Mongo/"/>
-   <updated>2014-07-14T00:00:00-05:00</updated>
+   <updated>2014-07-14T00:00:00+00:00</updated>
    <id>http://mongodbperu.com/2014/07/14/Que_es_Mongo</id>
    <content type="html">&lt;p&gt;Una mañana, tras un sueño intranquilo, Gregorio Samsa se despertó convertido en un monstruoso insecto.&lt;/p&gt;
 
