@@ -6,9 +6,9 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Hyde
+title:            MongoDB Perú
 tagline:          'A Jekyll theme'
-description:      'Numerosas patas el de <a href="http://mongodbperu.com" target="_blank">MongoDB Perú</a> penosamente delgadas en comparación con el grosor normal de sus dos piernas. hecho por nosotros<a href="https://twitter.com/mdo" target="_blank">@mongodbperu</a>'
+description:      'Numerosas patas salen de <a href="http://mongodbperu.com" target="_blank">MongoDB Perú</a> penosamente delgadas en comparación con el grosor normal de sus dos piernas. hecho por nosotros<a href="https://twitter.com/mdo" target="_blank">@mongodbperu</a>'
 url:              http://mongodbperu.com
 
 author:
@@ -21,4 +21,4 @@ paginate:         5
 version:          2.0.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/MongoDBPeru/mongodbperu.github.io
