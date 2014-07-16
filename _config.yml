@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            MongoDB Perú
+tagline:          'Jekyll Theme'
+description:      'De <a href="http://mongodbperu.com" target="_blank">MongoDB Perú</a> Hecho por nosotros<a href="https://twitter.com/mongodbperu" target="_blank">@mongodbperu</a>'
+url:              http://mongodbperu.com
+
+author:
+  name:           'MongoDB Perú'
+  url:            https://twitter.com/mongodbperu
+
+paginate:         5
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           https://github.com/mongodbperu.github.io
