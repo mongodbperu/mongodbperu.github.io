@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>MongoDB Perú</title>
+ <link href="http://mongodbperu.com/atom.xml" rel="self"/>
+ <link href="http://mongodbperu.com/"/>
+ <updated>2014-07-15T20:18:25-05:00</updated>
+ <id>http://mongodbperu.com</id>
+ <author>
+   <name>MongoDB Perú</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>¿Qué es MongoBD?</title>
+   <link href="http://mongodbperu.com/2014/07/14/Que_es_Mongo/"/>
+   <updated>2014-07-14T00:00:00-05:00</updated>
+   <id>http://mongodbperu.com/2014/07/14/Que_es_Mongo</id>
+   <content type="html">&lt;p&gt;Una mañana, tras un sueño intranquilo, Gregorio Samsa se despertó convertido en un monstruoso insecto.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Estaba echado de espaldas sobre un duro caparazón y, al alzar la cabeza, vio su vientre convexo y oscuro, surcado por curvadas callosidades, sobre el que casi no se aguantaba la colcha, que estaba a punto de escurrirse hasta el suelo.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Numerosas patas, penosamente delgadas en comparación con el grosor normal de sus piernas, se agitaban sin concierto. - ¿Qué me ha ocurrido? No estaba soñando.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
