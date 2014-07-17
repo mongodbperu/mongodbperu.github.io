@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            MongoDB Perú
 tagline:          'A Jekyll theme'
-description:      'Numerosas patas salen de <a href="http://mongodbperu.com" target="_blank">MongoDB Perú</a> penosamente delgadas en comparación con el grosor normal de sus dos piernas. hecho por nosotros<a href="https://twitter.com/mdo" target="_blank">@mongodbperu</a>'
+description:      'Numerosas patas salen de <a href="http://mongodbperu.com" target="_blank">MongoDB Perú</a> penosamente delgadas en comparación con el grosor normal de sus dos piernas. Hecho por nosotros<a href="https://twitter.com/mdo" target="_blank">@mongodbperu</a>'
 url:              http://mongodbperu.com
 
 author:
@@ -18,7 +18,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          2.0.0
+version:          2.0.1
 
 github:
   repo:           https://github.com/MongoDBPeru/mongodbperu.github.io
