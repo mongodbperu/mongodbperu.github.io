@@ -28,15 +28,20 @@ html {
     font-size: 20px;
   }
 }
-
-
 /*
  * Sidebar
  *
  * Flexible banner for housing site name, intro, and "footer" content. Starts
  * out above content in mobile and later moves to the side with wider viewports.
  */
-
+.logo
+{
+  background: url(/img/logo_neg.png) left center no-repeat;
+  background-size: 80%;
+  margin: 0 auto;
+  max-width: 100%;
+  padding-bottom: 70%;
+}
 .sidebar {
   text-align: center;
   padding: 2rem 1rem;
