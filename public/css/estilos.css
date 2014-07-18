@@ -1,0 +1,15 @@
+.logo
+{
+  margin: 0 auto;
+  margin-left: 3px;
+  padding-bottom: 20%;
+  max-width: 80%;
+}
+/* Dark brown*/
+.theme-base-0g .sidebar {
+  background-color: #4E362A;
+}
+.theme-base-0g .content a,
+.theme-base-0g .related-posts li a:hover {
+  color: #4E362A;
+}

@@ -8,13 +8,6 @@
  * Themes
  */
 
-
-/*
- * Global resets
- *
- * Update the foundational and global aspects of the page.
- */
-
 html {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
 }
@@ -34,14 +27,6 @@ html {
  * Flexible banner for housing site name, intro, and "footer" content. Starts
  * out above content in mobile and later moves to the side with wider viewports.
  */
-.logo
-{
-  background: url(/img/logo_neg.png) left center no-repeat;
-  background-size: 80%;
-  margin: 0 auto;
-  max-width: 100%;
-  padding-bottom: 70%;
-}
 .sidebar {
   text-align: center;
   padding: 2rem 1rem;
@@ -128,8 +113,6 @@ a.sidebar-nav-item:focus {
     margin-right: 4rem;
   }
 }
-
-
 /*
  * Reverse layout
  *
@@ -226,13 +209,4 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .content a,
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
-}
-
-/* Dark brown*/
-.theme-base-0g .sidebar {
-  background-color: #4E362A;
-}
-.theme-base-0g .content a,
-.theme-base-0g .related-posts li a:hover {
-  color: #4E362A;
 }
