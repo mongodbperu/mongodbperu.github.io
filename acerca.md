@@ -11,7 +11,7 @@ El contenido de este sitio web, las añadiduras al tema visual y el logo del Gru
 
 Mongo, MongoDB y el logo de la hoja son marcas registradas de [MongoDB Inc.]
 
-El logo de [MongoDB] es utlizado como parte del logo del Grupo de usuarios de MongoDB Perú con el permiso expreso de [MongoDB Inc.] para este propósito. El Grupo de usuarios de MongoDB Perú también es conocido en sus formas abreviadas "MongoDB Perú" y "MUG Perú", y anteriormente lo era como "MongoDB Lima" y "MUG Lima".
+El logo de [MongoDB] es utilizado como parte del logo del Grupo de usuarios de MongoDB Perú con el permiso expreso de [MongoDB Inc.] para este propósito. El Grupo de usuarios de MongoDB Perú también es conocido en sus formas abreviadas "MongoDB Perú" y "MUG Perú", y anteriormente lo era como "MongoDB Lima" y "MUG Lima".
 
 ##Reportar un error o solicitud
 
