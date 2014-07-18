@@ -27,19 +27,19 @@ Si deseas aportar contenido a nuestro sitio web o resolver uno de los *issues* q
 
  2. Clona el *fork* que hayas creado ejecutando lo siguiente:
  
-    ```
+    ```bash
     $ git clone git@github.com:<usuario>/mongodbperu.github.io.git
     ```
 
  3. Cambia tu directorio de trabajo hacia el directorio donde el repositorio fue clonado:
 
-    ```
+    ```bash
     $ cd mongodbperu.github.io
     ```
  
  4. Crea una nueva rama:
 
-    ```
+    ```bash
     $ git checkout -b <nueva_rama>
     ```
 
@@ -49,25 +49,25 @@ Si deseas aportar contenido a nuestro sitio web o resolver uno de los *issues* q
 
  6. Añade todos los cambios que realizaste o archivos necesarios al *staging* del repositorio:
 
-    ```
+    ```bash
     $ git add .
     ```
     
     Y/o elimina los archivos que deban ser eliminados:
     
-    ```
+    ```bash
     $ git rm <archivo_a_eliminar>
     ```
 
  7. Haz un *commit* para asegurar los cambios, para esto te sugerimos que escribas un mensaje bastante descriptivo a los cambios que vas a enviar.
 
-    ```
+    ```bash
     $ git commit -m "<mensaje>"
     ```
 
  8. Realiza un *push* con el *commit* o los *commits*:
 
-    ```
+    ```bash
     $ git push origin <nueva_rama>
     ```
 
@@ -83,13 +83,13 @@ Si te conviertes en un habitual contribuidor a nuestro repositorio, te sugerimos
 
  1. Añade la dirección remota de la rama `master` del repositorio de MongoDB Perú:
 
-    ```
+    ```bash
     $ git remote add --track master MongoDBPeru git@github.com:MongoDBPeru/mongodbperu.github.io.git
     ```
 
     Opcionalmente, para comprobar que hayas establecido las direcciones remotas correctamente, ejecuta este comando:
     
-    ```
+    ```bash
     $ git remote -v
     ```
 
@@ -104,25 +104,25 @@ Si te conviertes en un habitual contribuidor a nuestro repositorio, te sugerimos
 
  2. Obtén todos los cambios más recientes que existan en el repositorio de MongoDB Perú.
 
-    ```
+    ```bash
     $ git fetch MongoDBPeru
     ```
 
  3. Asegúrate de encontrarte en la rama `master`:
 
-    ```
+    ```bash
     $ git checkout master
     ```
 
  4. Combina los cambios traídos de la rama `master` del repositorio de MongoDB Perú
  
-    ```
+    ```bash
     $ git merge MongoDBPeru/master
     ```
 
  4. Envía los cambios hacia la rama `master` de tu *fork*:
 
-    ``` 
+    ```bash
     $ git push origin master
     ```
 
