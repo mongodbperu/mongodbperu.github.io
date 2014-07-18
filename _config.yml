@@ -11,6 +11,8 @@ tagline:          'Jekyll Theme'
 description:      'Grupo de usuarios de MongoDB Perú'
 url:              http://mongodbperu.com
 
+google_analytics_id: UA-50755011-1
+
 author:
   name:           'MongoDB Perú'
   url:            https://twitter.com/mongodbperu
