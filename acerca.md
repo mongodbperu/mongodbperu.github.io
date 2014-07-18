@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Acerca de este sitio
+navigation:
+  weight: 4
+  show: true
 ---
 
 Este sitio web está construido con la ayuda de [Jekyll] y [GitHub Pages], por lo que todo lo que se muestra es contenido estático que en realidad está redactado mayormente con el formato de marcado [Markdown]. El tema visual que utilizamos se llama [Hyde], y si bien es cierto que hemos realizado algunas ligeras añadiduras, éstas han sido escritas en un archivo CSS separado para mantener la integridad del tema.
