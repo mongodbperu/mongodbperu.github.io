@@ -1,0 +1,24 @@
+---
+layout: page
+title: Acerca de este sitio
+---
+
+
+
+
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="/page{{paginator.next_page}}">Anterior</a>
+  {% else %}
+    <span class="pagination-item older">Anterior</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a class="pagination-item newer" href="/">Nuevo</a>
+    {% else %}
+      <a class="pagination-item newer" href="/page{{paginator.previous_page}}">Siguiente</a>
+    {% endif %}
+  {% else %}
+    <span class="pagination-item newer">Siguiente</span>
+  {% endif %}
+</div>
