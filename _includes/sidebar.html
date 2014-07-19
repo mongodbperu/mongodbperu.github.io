@@ -23,12 +23,7 @@
         {% endif %}
       {% endfor %}
     </ul>
-    <ul id="social-icons">
-      <li><a href="{{ site.github.repo }}" alt="Github" class="icon-social-github" value="e600"></a></li>
-      <li><a href="https://groups.google.com/group/mongodb-lima" alt="Google+" class="icon-googleplus" value="e605"></a></li>
-      <li><a href="https://twitter.com/MongoDBPeru" alt="Twitter" class="icon-twitter" value="e603 "></a></li>
-      <li><a href="https://www.facebook.com/mongodbperu?fref=ts" alt="Facebook" class="icon-facebook" value="e604"></a></li>
-    </ul>    
+    {% include social.html %}
     <div class="sidebar-about">
       <p class="lead">{{ site.description }}</p>
     </div>
