@@ -1,3 +1,23 @@
+{% comment %} VARIABLES {% endcomment %}
+    {% comment %} Page Title {% endcomment %}
+        {% if page.title %}
+            {% assign title = page.title | append: " &middot; " | append: site.title %}
+        {% else %}
+            {% assign title = site.title | append: " &middot; " | append: site.tagline %}
+        {% endif %}
+    {% comment %} Page Description {% endcomment %}
+        {% if page.description %}
+            {% assign description = page.description %}
+        {% else %}
+            {% assign description = site.description %}
+        {% endif %}
+    {% comment %} Page URL {% endcomment %}
+        {% if page.url %}
+            {% assign url = site.url | append: page.url %}
+        {% else %}
+            {% assign url = site.url %}
+        {% endif %}
+
 <head>
   <link href="http://gmpg.org/xfn/11" rel="profile">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -7,13 +27,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
   <meta name="google-site-verification" content="Ds-XAiVXhj2xQ3aVt_KBdhmcCZuFnXmBpOH2kfQalQY" />
 
-  <title>
-    {% if page.title %}
-      {{ page.title }} &middot; {{ site.title }}
-    {% else %}
-      {{ site.title }} &middot; {{ site.tagline }}
-    {% endif %}
-  </title>
+  <title>{{ title }}</title>
 
   <!-- CSS -->
   <link rel="stylesheet" href="/public/css/poole.css">
@@ -22,6 +36,14 @@
   <link rel="stylesheet" href="/public/css/anchor.css">
   <link rel="stylesheet" href="/public/css/custom.css">
   <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
+
+  <!-- Facebook OpenGraph -->
+  <meta property="og:site_name" content="{{ site.title }}" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="{{ title }}" />
+  <meta property="og:url" content="{{ url }}" />
+  <meta property="og:image" content="http://mongodbperu.com/public/images/logo.png" />
+  <meta property="og:description" content="{{ description }}" />
 
   <!-- Scripts -->
   <script type="text/javascript" src="/public/js/anchor.js"></script>
