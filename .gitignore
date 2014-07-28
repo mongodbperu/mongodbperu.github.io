@@ -3,3 +3,9 @@ _site/
 pkg/
 test/
 .DS_Store
+
+############
+# INTELLIJ #
+############
+.idea/*
+*.iml
