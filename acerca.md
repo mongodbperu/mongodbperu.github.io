@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Acerca de este sitio
+description: Compartimos contigo quiénes somos, qué hacemos y cómo puedes contribuir.
 ---
 
 Este sitio web está construido con la ayuda de [Jekyll] y [GitHub Pages], por
