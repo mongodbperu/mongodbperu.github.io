@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'fontawesome';
-	src:url('fonts/fontawesome.eot?-yiwbf9');
-	src:url('fonts/fontawesome.eot?#iefix-yiwbf9') format('embedded-opentype'),
-		url('fonts/fontawesome.woff?-yiwbf9') format('woff'),
-		url('fonts/fontawesome.ttf?-yiwbf9') format('truetype'),
-		url('fonts/fontawesome.svg?-yiwbf9#fontawesome') format('svg');
+	src:url('fonts/fontawesome.eot?m1uhaa');
+	src:url('fonts/fontawesome.eot?#iefixm1uhaa') format('embedded-opentype'),
+		url('fonts/fontawesome.woff?m1uhaa') format('woff'),
+		url('fonts/fontawesome.ttf?m1uhaa') format('truetype'),
+		url('fonts/fontawesome.svg?m1uhaa#fontawesome') format('svg');
 }
 
 [class^="icon-"], [class*=" icon-"] {
@@ -33,7 +33,6 @@
 }
 .icon-github:before {
 	content: "\f09b";
-	font-size: 1.2em;
 }
 .icon-google-plus-square:before {
 	content: "\f0d4";
@@ -44,14 +43,17 @@
 .icon-github-alt:before {
 	content: "\f113";
 }
+.icon-youtube-square:before {
+	content: "\f166";
+}
+.icon-youtube:before {
+	content: "\f167";
+}
+.icon-youtube-play:before {
+	content: "\f16a";
+}
 .icon-google:before {
 	content: "\f1a0";
-}
-.icon-git-square:before {
-	content: "\f1d2";
-}
-.icon-git:before {
-	content: "\f1d3";
 }
 
 .logo
