@@ -11,7 +11,7 @@
 	font-family: 'fontawesome';
 	line-height: 1;
 
-	/* Better Font Rendering =========== */
+	/*----- Better Font Rendering -----*/
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
@@ -58,21 +58,21 @@
 
 .logo
 {
-  margin: 0 auto;
-  margin-left: 3px;
-  padding-bottom: 20%;
-  max-width: 80%;
+	margin: 0 auto;
+	margin-left: 3px;
+	padding-bottom: 20%;
+	max-width: 30%;
 }
 
-/* Dark brown*/
+/*----- Dark Brown -----*/ 
 .theme-base-0g .sidebar {
-  background-color: #4E362A;
+	background-color: #4E362A;
 }
 .theme-base-0g .content a,
 .theme-base-0g .related-posts li a:hover {
-  color: #4E362A;
+	color: #4E362A;
 }
-/*iconos sociales*/
+/*----- Social Icons -----*/
 #social-icons {
 	margin: -0.4em 0 0.3em -2.2em;
 }
@@ -83,4 +83,14 @@
 }
 #social-icons li a {
 	text-decoration: none;
+}
+/*----- @ -----*/
+
+@media (min-width: 48rem) {
+	.logo {
+		margin: 0 auto;
+		margin-left: 3px;
+		padding-bottom: 20%;
+		max-width: 80%;
+	}
 }
