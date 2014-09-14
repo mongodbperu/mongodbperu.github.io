@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            'MongoDB Perú'
 tagline:          'Comunidad de MongoDB en el Perú.'
-description:      'Ésta es la página web del grupo de usuarios de MongoDB en el Perú.'
+description:      'Página web del grupo de usuarios de MongoDB en el Perú.'
 url:              http://mongodbperu.com
 google_analytics_id: UA-52981810-1
 
@@ -28,4 +28,4 @@ social:
   google_plus:    https://plus.google.com/114549262013972525952
   twitter:        https://twitter.com/mongodbperu
   facebook:       https://facebook.com/mongodbperu
-  youtube:				https://www.youtube.com/user/mongodbperu
+  youtube:        https://youtube.com/mongodbperu
